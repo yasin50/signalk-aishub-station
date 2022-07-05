@@ -1,0 +1,28 @@
+{
+  "name": "signalk-aishub-station",
+  "version": "1.0.0",
+  "description": "To be defined",
+  "main": "index.js",
+  "scripts": {
+    "test": "$NODE $npm_package_main"
+  },
+  "keywords": [
+    "signalk-node-server-plugin"
+  ],
+  "author": {
+    "name": "Tibor Piroth",
+    "email": "tibor@piroth.org"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "ggencoder": "^0.1.18",
+    "bluebird": "^3.0.0",
+    "superagent": "^3.3.2",
+    "superagent-promise": "^1.0.3",
+    "@signalk/signalk-schema": "^1.0.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yasin50/signalk-aishub-station"
+  }
+  }
